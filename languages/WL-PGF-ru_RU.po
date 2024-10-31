@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flicker Album Gallery\n"
+"POT-Creation-Date: 2018-09-11 18:59+0530\n"
+"PO-Revision-Date: 2018-09-11 18:59+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/WL_FPG_CPT.php:9 admin/inc/WL_FPG_CPT.php:10
+#, fuzzy
+#| msgid "Add New Gallery"
+msgid "Add New Album"
+msgstr "Добавить новую галерею"
+
+#: admin/inc/WL_FPG_CPT.php:11
+msgid "Edit Album"
+msgstr "Изменить альбом"
+
+#: admin/inc/WL_FPG_CPT.php:12
+#, fuzzy
+#| msgid "New Album Gallery"
+msgid "New Photo Album"
+msgstr "Новая галерея альбома"
+
+#: admin/inc/WL_FPG_CPT.php:13
+#, fuzzy
+#| msgid "View Album Gallery"
+msgid "View Photo Album"
+msgstr "Просмотр галереи альбома"
+
+#: admin/inc/WL_FPG_CPT.php:14
+#, fuzzy
+#| msgid "Search Album Galleries"
+msgid "Search Photo Album"
+msgstr "Поиск галерей альбома"
+
+#: admin/inc/WL_FPG_CPT.php:15
+#, fuzzy
+#| msgid "No Album Galleries Found"
+msgid "No Photo Album Found"
+msgstr "Галерея альбома не найдена"
+
+#: admin/inc/WL_FPG_CPT.php:16
+#, fuzzy
+#| msgid "No Album Galleries Found in Trash"
+msgid "No Photo Album Found in Trash"
+msgstr "Галерея альбома в удаленном не найдена "
+
+#: admin/inc/WL_FPG_CPT.php:17
+#, fuzzy
+#| msgid "Parent Album Gallery:"
+msgid "Parent Album:"
+msgstr "Родительская галерея альбома:"
+
+#: admin/inc/WL_FPG_CPT.php:18
+#, fuzzy
+#| msgid "All Galleries"
+msgid "All Photo Albums"
+msgstr "Все галереи"
+
+#: admin/inc/WL_FPG_CPT.php:53
+msgid "Album"
+msgstr "Альбом"
+
+#: admin/inc/WL_FPG_CPT.php:54
+#, fuzzy
+#| msgid "Album Gallery Shortcode"
+msgid "Photo Album For Flikcr Shortcode"
+msgstr "Код галереи альбома"
+
+#: admin/inc/WL_FPG_CPT.php:55
+msgid "Date"
+msgstr "Дата"
+
+#: admin/inc/WL_FPG_Metabox.php:6
+msgid "Add Credentials"
+msgstr "Добавление учетных данных"
+
+#: admin/inc/WL_FPG_Metabox.php:10
+#, fuzzy
+#| msgid "All Album Galleries"
+msgid "All Album Settings"
+msgstr "Все галереи альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:15
+#, fuzzy
+#| msgid "Album Gallery Shortcode"
+msgid "Photo Album For Flickr Shortcode"
+msgstr "Код галереи альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:64
+msgid "Enter Flickr API Key"
+msgstr "Введите ключ API Flickr "
+
+#: admin/inc/WL_FPG_Metabox.php:70
+msgid "Get Your API Key"
+msgstr "Получите свой ключ API"
+
+#: admin/inc/WL_FPG_Metabox.php:75
+msgid "Enter Flickr Album ID"
+msgstr "Введите ID альбома Flickr"
+
+#: admin/inc/WL_FPG_Metabox.php:81
+msgid "Get Your Album ID"
+msgstr "Узнайте ID вашего альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:83
+msgid ""
+"Get more Image Sliders, Album Layouts, Hover Animations, Multiple Album "
+"Shortcodes. View details"
+msgstr ""
+"Получить больше изображений ползунки, альбом макеты, наведите анимацию, "
+"несколько коротких альбомов. Просмотр сведений"
+
+#: admin/inc/WL_FPG_Metabox.php:85
+msgid "Here"
+msgstr "Здесь"
+
+#: admin/inc/WL_FPG_Metabox.php:86
+msgid "Check Flicker Album Pro Details &"
+msgstr "Проверить мерцание альбома про подробности и"
+
+#: admin/inc/WL_FPG_Metabox.php:88
+msgid " Live Demo"
+msgstr "Демо"
+
+#: admin/inc/WL_FPG_Metabox.php:130
+#, fuzzy
+#| msgid "Album Gallery Shortcode"
+msgid "Album Gallery Title"
+msgstr "Код галереи альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:144
+#, fuzzy
+#| msgid "Show Gallery Title"
+msgid "Show Album Description Title"
+msgstr "Отображать название галереи"
+
+#: admin/inc/WL_FPG_Metabox.php:159
+msgid "Choose Lightbox for Album"
+msgstr "Выберите Лайтбокс для альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:166
+msgid "Photobox"
+msgstr "Фотобоксе"
+
+#: admin/inc/WL_FPG_Metabox.php:169
+msgid "Blueimp"
+msgstr "Блуеимп"
+
+#: admin/inc/WL_FPG_Metabox.php:172 admin/inc/WL_FPG_Metabox.php:218
+msgid "Choose a column layout for Album"
+msgstr "Выбор макета столбца для альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:177
+msgid "Album Description Text"
+msgstr "Текст описания альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:189
+#, fuzzy
+#| msgid "Show Gallery Title"
+msgid "Show Thumbnail Title"
+msgstr "Отображать название галереи"
+
+#: admin/inc/WL_FPG_Metabox.php:203
+msgid "Photo Album Layout"
+msgstr "Макет фотоальбома"
+
+#: admin/inc/WL_FPG_Metabox.php:209
+msgid "Two Column"
+msgstr "Две колонки"
+
+#: admin/inc/WL_FPG_Metabox.php:212
+msgid "Three Column"
+msgstr "Три колонки"
+
+#: admin/inc/WL_FPG_Metabox.php:215
+msgid "Four Column"
+msgstr "Четыре колонки"
+
+#: admin/inc/WL_FPG_Metabox.php:223
+msgid "Show Album Thumbnail Limit"
+msgstr "Показать ограничение миниатюры альбома"
+
+#: admin/inc/WL_FPG_Metabox.php:228
+msgid ""
+"Show no. of thumbnails from fetched images, if there are too many fetched "
+"images, you can limit theme here. Set a numeric value like: 10, 20, 25, 50, "
+"100"
+msgstr ""
+"Показать нет. эскизов из извлеченных изображений, если слишком много "
+"извлеченных изображений, вы можете ограничить тему здесь. Задайте числовое "
+"значение, например: 10, 20, 25, 50, 100"
+
+#: admin/inc/WL_FPG_Metabox.php:232
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: admin/inc/WL_FPG_Metabox.php:241
+msgid "Note: Please Do Not Use Style Tag With Custom CSS"
+msgstr ""
+
+#: admin/inc/WL_FPG_Metabox.php:250
+#, fuzzy
+#| msgid ""
+#| "Use below shortcode in any Page/Post to publish your Flickr Album Gallery"
+msgid ""
+"Use below shortcode in any Page/Post to publish your Photo Album For Flickr"
+msgstr ""
+"Используйте приведенный код на любой странице/в любом сообщении, чтобы "
+"опубликовать галерею"
+
+#: public/Flickr_photo_gallery.php:10
+#, fuzzy
+#| msgid "Album Gallery Shortcode"
+msgid "Display Photo Album For Flickr"
+msgstr "Код галереи альбома"
+
+#: public/Flickr_photo_gallery.php:27 public/Flickr_photo_gallery.php:94
+#, fuzzy
+#| msgid "Album Gallery Shortcode"
+msgid "Sorry! No Photo Album For Flickr Shortcode Found."
+msgstr "Код галереи альбома"
+
+#: public/Flickr_photo_gallery.php:50
+msgid "Widget Title"
+msgstr ""
+
+#: public/Flickr_photo_gallery.php:57
+msgid "Select Any"
+msgstr ""
+
+#: public/Flickr_photo_gallery.php:89
+msgid "No Title"
+msgstr ""
+
+#: public/WL_FPG_Blueimp.php:22
+msgid "Previous"
+msgstr "Назад"
+
+#: public/WL_FPG_Blueimp.php:25
+msgid "Next"
+msgstr "Далее"
+
+#: public/WL_FPG_Shortcode.php:299
+#, fuzzy
+#| msgid "Sorry! Invalid Flicker Album Shortcode Embedded"
+msgid "Sorry! Invalid Flickr Photo Shortcode Embedded"
+msgstr "Извините! Введен неправильный код альбома Flickr "
+
+#, fuzzy
+#~| msgid "Album Gallery Shortcode"
+#~ msgid "Photo Album Shortcode"
+#~ msgstr "Код галереи альбома"
+
+#~ msgid "Flickr Album Gallery"
+#~ msgstr "Flickr Album Gallery"
+
+#~ msgid "%s rating"
+#~ msgstr "%s рейтинг"
+
+#~ msgid "More Details"
+#~ msgstr "Подробнее"
+
+#~ msgid "Install Now"
+#~ msgstr "Установить сейчас"
+
+#~ msgid "Update Now"
+#~ msgstr "Обновить сейчас"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Премиум возможности"
+
+#~ msgid "Visit Website"
+#~ msgstr "Посетить сайт"
+
+#~ msgid "Last Updated:"
+#~ msgstr "Последнее обновление:"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Редактировать галерею"
+
+#~ msgid "Gallery"
+#~ msgstr "Галерея"
+
+#~ msgid "Add Images"
+#~ msgstr "Добавить изображения"
+
+#, fuzzy
+#~| msgid "Flickr Album Gallery Shortcode"
+#~ msgid "Flickr Photo Gallery Shortcode"
+#~ msgstr "Код галереи альбома Flickr "
+
+#~ msgid "Support Forum"
+#~ msgstr "Форум поддержки"
+
+#~ msgid "View Changelog"
+#~ msgstr "Посмотреть список изменений"
+
+#~ msgid "Need Help"
+#~ msgstr "Нужна помощь"
+
+#~ msgid "Need Help About Flickr Album Gallery ?"
+#~ msgstr "Нужна помощь по модулю Flickr Album Gallery ?"
+
+#~ msgid "Our Products"
+#~ msgstr "Наши продукты"
+
+#~ msgid "Need Help?"
+#~ msgstr "Нужна помощь?"
